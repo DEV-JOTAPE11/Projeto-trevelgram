@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Capa do projeto Travelgram" src="assets/images/Image 02.png" width="100%" style="border-radius: 10px; object-fit: cover; max-height: 400px;">
+  <img alt="Capa do projeto Travelgram" src="assets/readme-print.png" width="100%" style="border-radius: 10px; object-fit: cover; max-height: 400px;">
 </p>
 
 ## 🚀 Tecnologias
